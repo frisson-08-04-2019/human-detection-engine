@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# logs
+*.log
+
+.idea/
+nets/
+
+data/*
+!data/test_1/
